@@ -29,4 +29,4 @@ popular zhihu top search. Search data every hour.
 
 ## Archives
 
-History [./archives](./archives)
+History [archives](./archives)
