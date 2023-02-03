@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Fri Feb 03 2023 20:10:20 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Fri Feb 03 2023 21:13:36 GMT+0800 (China Standard Time) -->
 
 1. [剧版三体第二十集](https://www.zhihu.com/search?q=剧版三体第二十集)
 1. [辽宁沈阳一医生出诊时遇袭](https://www.zhihu.com/search?q=辽宁沈阳一医生出诊时遇袭)
