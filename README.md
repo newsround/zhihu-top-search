@@ -10,9 +10,8 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sat Feb 04 2023 15:02:36 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sat Feb 04 2023 16:06:42 GMT+0800 (China Standard Time) -->
 
-1. [专家称年轻人工资低可能是能力不够](https://www.zhihu.com/search?q=专家称年轻人工资低可能是能力不够)
 1. [月收入一万真是常态吗](https://www.zhihu.com/search?q=月收入一万真是常态吗)
 1. [第二轮感染高峰或在 3-5
    月到来](https://www.zhihu.com/search?q=第二轮感染高峰或在 3-5 月到来)
@@ -25,6 +24,8 @@ popular zhihu top search. Search data every hour.
 1. [中国宏观税负降至 13.8％
    创新低](https://www.zhihu.com/search?q=中国宏观税负降至 13.8％ 创新低)
 1. [欧文申请交易](https://www.zhihu.com/search?q=欧文申请交易)
+1. [乳腺癌成为全球第一大癌症](https://www.zhihu.com/search?q=乳腺癌成为全球第一大癌症)
+1. [专家称年轻人工资低可能是能力不够](https://www.zhihu.com/search?q=专家称年轻人工资低可能是能力不够)
 1. [一人之下漫画更新 651](https://www.zhihu.com/search?q=一人之下漫画更新 651)
 
 <!-- END -->
