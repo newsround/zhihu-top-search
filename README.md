@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sun Feb 05 2023 03:01:52 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sun Feb 05 2023 04:04:00 GMT+0800 (China Standard Time) -->
 
 1. [世界癌症日](https://www.zhihu.com/search?q=世界癌症日)
 1. [中国宏观税负降至 13.8％
