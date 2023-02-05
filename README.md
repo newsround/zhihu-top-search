@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sun Feb 05 2023 13:03:14 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sun Feb 05 2023 14:06:44 GMT+0800 (China Standard Time) -->
 
 1. [美国两架客机在机场相撞](https://www.zhihu.com/search?q=美国两架客机在机场相撞)
 1. [19 岁患者疑似患阿尔茨海默病](https://www.zhihu.com/search?q=19
