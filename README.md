@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sun Feb 05 2023 20:08:49 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sun Feb 05 2023 21:09:55 GMT+0800 (China Standard Time) -->
 
 1. [广东佛山发生 3.2 级地震](https://www.zhihu.com/search?q=广东佛山发生 3.2
    级地震)
