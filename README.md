@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Mon Feb 06 2023 13:04:20 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Mon Feb 06 2023 14:08:13 GMT+0800 (China Standard Time) -->
 
 1. [三体动画第十集](https://www.zhihu.com/search?q=三体动画第十集)
 1. [中国奇谭第七集](https://www.zhihu.com/search?q=中国奇谭第七集)
