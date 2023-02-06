@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Mon Feb 06 2023 18:06:31 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Mon Feb 06 2023 19:03:00 GMT+0800 (China Standard Time) -->
 
 1. [剧版三体第二十二集](https://www.zhihu.com/search?q=剧版三体第二十二集)
 1. [第 65 届格莱美奖](https://www.zhihu.com/search?q=第 65 届格莱美奖)
