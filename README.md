@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Tue Feb 07 2023 18:04:55 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Tue Feb 07 2023 19:02:31 GMT+0800 (China Standard Time) -->
 
 1. [剧版三体第二十三集](https://www.zhihu.com/search?q=剧版三体第二十三集)
 1. [土耳其一天内两次 7.8 级强震](https://www.zhihu.com/search?q=土耳其一天内两次
