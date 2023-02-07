@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Tue Feb 07 2023 14:07:32 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Tue Feb 07 2023 15:04:02 GMT+0800 (China Standard Time) -->
 
 1. [泽连斯基提议将战时状态再延长 90
    天](https://www.zhihu.com/search?q=泽连斯基提议将战时状态再延长 90 天)
