@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Tue Feb 07 2023 07:03:58 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Tue Feb 07 2023 08:31:44 GMT+0800 (China Standard Time) -->
 
 1. [第 65 届格莱美奖](https://www.zhihu.com/search?q=第 65 届格莱美奖)
 1. [土耳其发生 7.8 级地震](https://www.zhihu.com/search?q=土耳其发生 7.8 级地震)
