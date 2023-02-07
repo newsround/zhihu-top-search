@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Wed Feb 08 2023 00:06:47 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Wed Feb 08 2023 01:04:08 GMT+0800 (China Standard Time) -->
 
 1. [河北闹气荒](https://www.zhihu.com/search?q=河北闹气荒)
 1. [中方回应美方拒还飞艇碎片和设备](https://www.zhihu.com/search?q=中方回应美方拒还飞艇碎片和设备)
