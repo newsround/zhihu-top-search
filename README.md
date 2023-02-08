@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Wed Feb 08 2023 18:06:59 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Wed Feb 08 2023 19:01:54 GMT+0800 (China Standard Time) -->
 
 1. [剧版三体第二十四集](https://www.zhihu.com/search?q=剧版三体第二十四集)
 1. [任天堂 Switch 销量超 1.21 亿台](https://www.zhihu.com/search?q=任天堂 Switch
