@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Wed Feb 08 2023 16:08:03 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Wed Feb 08 2023 17:05:32 GMT+0800 (China Standard Time) -->
 
 1. [《半熟恋人 2 》开播](https://www.zhihu.com/search?q=《半熟恋人 2 》开播)
 1. [剧版三体第二十四集](https://www.zhihu.com/search?q=剧版三体第二十四集)
