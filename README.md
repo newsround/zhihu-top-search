@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Thu Feb 09 2023 10:13:50 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Thu Feb 09 2023 11:10:32 GMT+0800 (China Standard Time) -->
 
 1. [任天堂 Switch 销量超 1.21 亿台](https://www.zhihu.com/search?q=任天堂 Switch
    销量超 1.21 亿台)
