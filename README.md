@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Fri Feb 10 2023 02:07:10 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Fri Feb 10 2023 03:02:58 GMT+0800 (China Standard Time) -->
 
 1. [任天堂发布直面会](https://www.zhihu.com/search?q=任天堂发布直面会)
 1. [建行、工行等多个网点终止营业](https://www.zhihu.com/search?q=建行、工行等多个网点终止营业)
