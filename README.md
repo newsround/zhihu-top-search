@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Fri Feb 10 2023 15:04:46 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Fri Feb 10 2023 16:07:58 GMT+0800 (China Standard Time) -->
 
 1. [NBA 交易截止日](https://www.zhihu.com/search?q=NBA 交易截止日)
 1. [建行、工行等多个网点终止营业](https://www.zhihu.com/search?q=建行、工行等多个网点终止营业)
