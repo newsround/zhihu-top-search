@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sat Feb 11 2023 12:06:42 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sat Feb 11 2023 13:03:19 GMT+0800 (China Standard Time) -->
 
 1. [NBA 交易截止日](https://www.zhihu.com/search?q=NBA 交易截止日)
 1. [游戏霍格沃茨之遗上线](https://www.zhihu.com/search?q=游戏霍格沃茨之遗上线)
