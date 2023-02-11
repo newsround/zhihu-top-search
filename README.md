@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sat Feb 11 2023 17:03:42 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sat Feb 11 2023 18:03:49 GMT+0800 (China Standard Time) -->
 
 1. [美多州或禁中国人在美买房？中方回应](https://www.zhihu.com/search?q=美多州或禁中国人在美买房？中方回应)
 1. [剧版三体第二十七集](https://www.zhihu.com/search?q=剧版三体第二十七集)
