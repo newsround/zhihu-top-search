@@ -10,9 +10,8 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sat Feb 11 2023 18:03:49 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sat Feb 11 2023 19:02:28 GMT+0800 (China Standard Time) -->
 
-1. [美多州或禁中国人在美买房？中方回应](https://www.zhihu.com/search?q=美多州或禁中国人在美买房？中方回应)
 1. [剧版三体第二十七集](https://www.zhihu.com/search?q=剧版三体第二十七集)
 1. [2 月 87 款国产网游获批](https://www.zhihu.com/search?q=2 月 87
    款国产网游获批)
@@ -20,6 +19,7 @@ popular zhihu top search. Search data every hour.
    赢下「仁川人对决」)
 1. [《三体》动画第十一集](https://www.zhihu.com/search?q=《三体》动画第十一集)
 1. [俄方：准备好与乌克兰无条件谈判](https://www.zhihu.com/search?q=俄方：准备好与乌克兰无条件谈判)
+1. [美多州或禁中国人在美买房？中方回应](https://www.zhihu.com/search?q=美多州或禁中国人在美买房？中方回应)
 1. [崩坏星穹铁道三测开启](https://www.zhihu.com/search?q=崩坏星穹铁道三测开启)
 1. [NBA 交易截止日](https://www.zhihu.com/search?q=NBA 交易截止日)
 1. [游戏霍格沃茨之遗上线](https://www.zhihu.com/search?q=游戏霍格沃茨之遗上线)
