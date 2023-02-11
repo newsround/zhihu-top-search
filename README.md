@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sat Feb 11 2023 07:04:21 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sat Feb 11 2023 08:27:16 GMT+0800 (China Standard Time) -->
 
 1. [NBA 交易截止日](https://www.zhihu.com/search?q=NBA 交易截止日)
 1. [我国 1 月 CPI 同比上涨 2.1%](https://www.zhihu.com/search?q=我国 1 月 CPI
