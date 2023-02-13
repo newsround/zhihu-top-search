@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Tue Feb 14 2023 02:07:28 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Tue Feb 14 2023 03:02:36 GMT+0800 (China Standard Time) -->
 
 1. [黄海北部海域进行实弹射击](https://www.zhihu.com/search?q=黄海北部海域进行实弹射击)
 1. [刘学州被网暴致死案网上开庭](https://www.zhihu.com/search?q=刘学州被网暴致死案网上开庭)
