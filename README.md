@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Mon Feb 13 2023 10:14:25 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Mon Feb 13 2023 11:12:28 GMT+0800 (China Standard Time) -->
 
 1. [南宁房贷年龄期限可延长至 80
    岁](https://www.zhihu.com/search?q=南宁房贷年龄期限可延长至 80 岁)
@@ -19,6 +19,8 @@ popular zhihu top search. Search data every hour.
 1. [山东海域现不明飞行物，官方：准备击落](https://www.zhihu.com/search?q=山东海域现不明飞行物，官方：准备击落)
 1. [姐弟俩仿冒论文期刊四年牟利 1800
    多万](https://www.zhihu.com/search?q=姐弟俩仿冒论文期刊四年牟利 1800 多万)
+1. [黄海北部海域进行实弹射击](https://www.zhihu.com/search?q=黄海北部海域进行实弹射击)
+1. [刘学州被网暴致死案网上开庭](https://www.zhihu.com/search?q=刘学州被网暴致死案网上开庭)
 
 <!-- END -->
 
