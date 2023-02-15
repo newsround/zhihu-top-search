@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Wed Feb 15 2023 20:10:46 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Wed Feb 15 2023 21:16:43 GMT+0800 (China Standard Time) -->
 
 1. [WBG 0:2 不敌 TT](https://www.zhihu.com/search?q=WBG 0:2 不敌 TT)
 1. [《王者荣耀世界》最新实机演示](https://www.zhihu.com/search?q=《王者荣耀世界》最新实机演示)
