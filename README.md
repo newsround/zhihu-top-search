@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Thu Feb 16 2023 18:06:31 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Thu Feb 16 2023 19:03:27 GMT+0800 (China Standard Time) -->
 
 1. [中方将对有关美国实体采取反制措施](https://www.zhihu.com/search?q=中方将对有关美国实体采取反制措施)
 1. [多地取消医护夜班费](https://www.zhihu.com/search?q=多地取消医护夜班费)
