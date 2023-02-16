@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Fri Feb 17 2023 06:04:10 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Fri Feb 17 2023 07:06:17 GMT+0800 (China Standard Time) -->
 
 1. [1 月份一线城市商品住宅售价环比转涨](https://www.zhihu.com/search?q=1
    月份一线城市商品住宅售价环比转涨)
