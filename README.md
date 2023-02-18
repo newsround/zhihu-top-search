@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sun Feb 19 2023 01:03:19 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sun Feb 19 2023 02:06:36 GMT+0800 (China Standard Time) -->
 
 1. [河南一楼盘推出「 0 首付 0
    月供」产品](https://www.zhihu.com/search?q=河南一楼盘推出「 0 首付 0
