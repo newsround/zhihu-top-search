@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Mon Feb 20 2023 01:02:45 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Mon Feb 20 2023 02:06:31 GMT+0800 (China Standard Time) -->
 
 1. [近期每日新增阳性 5000
    例以上](https://www.zhihu.com/search?q=近期每日新增阳性 5000 例以上)
