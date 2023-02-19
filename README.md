@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sun Feb 19 2023 13:03:27 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sun Feb 19 2023 14:07:17 GMT+0800 (China Standard Time) -->
 
 1. [菲律宾一架飞机早上起飞后失联](https://www.zhihu.com/search?q=菲律宾一架飞机早上起飞后失联)
 1. [雨水节气吃什么最养生](https://www.zhihu.com/search?q=雨水节气吃什么最养生)
