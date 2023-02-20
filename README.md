@@ -10,15 +10,15 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Mon Feb 20 2023 18:07:42 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Mon Feb 20 2023 19:03:32 GMT+0800 (China Standard Time) -->
 
-1. [桃李面包被曝面包中吃出 2
-   厘米带锈刀片](https://www.zhihu.com/search?q=桃李面包被曝面包中吃出 2
-   厘米带锈刀片)
 1. [染粉发被网暴女孩去世](https://www.zhihu.com/search?q=染粉发被网暴女孩去世)
 1. [柯南新封面引发争论](https://www.zhihu.com/search?q=柯南新封面引发争论)
 1. [考研成绩公布](https://www.zhihu.com/search?q=考研成绩公布)
 1. [漫画家松本零士去世](https://www.zhihu.com/search?q=漫画家松本零士去世)
+1. [桃李面包被曝面包中吃出 2
+   厘米带锈刀片](https://www.zhihu.com/search?q=桃李面包被曝面包中吃出 2
+   厘米带锈刀片)
 1. [近期每日新增阳性 5000
    例以上](https://www.zhihu.com/search?q=近期每日新增阳性 5000 例以上)
 1. [上戏要求表演系高考须达一本线](https://www.zhihu.com/search?q=上戏要求表演系高考须达一本线)
