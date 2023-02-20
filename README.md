@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Mon Feb 20 2023 14:08:25 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Mon Feb 20 2023 15:05:30 GMT+0800 (China Standard Time) -->
 
 1. [近期每日新增阳性 5000
    例以上](https://www.zhihu.com/search?q=近期每日新增阳性 5000 例以上)
@@ -20,6 +20,7 @@ popular zhihu top search. Search data every hour.
 1. [染粉发被网暴女孩去世](https://www.zhihu.com/search?q=染粉发被网暴女孩去世)
 1. [柯南新封面引发争论](https://www.zhihu.com/search?q=柯南新封面引发争论)
 1. [考研成绩公布](https://www.zhihu.com/search?q=考研成绩公布)
+1. [漫画家松本零士去世](https://www.zhihu.com/search?q=漫画家松本零士去世)
 1. [上戏要求表演系高考须达一本线](https://www.zhihu.com/search?q=上戏要求表演系高考须达一本线)
 1. [沈阳三孩家庭每月发 500
    元补贴](https://www.zhihu.com/search?q=沈阳三孩家庭每月发 500 元补贴)
