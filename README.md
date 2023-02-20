@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Tue Feb 21 2023 02:07:24 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Tue Feb 21 2023 03:02:34 GMT+0800 (China Standard Time) -->
 
 1. [柯南新封面引发争论](https://www.zhihu.com/search?q=柯南新封面引发争论)
 1. [考研成绩公布](https://www.zhihu.com/search?q=考研成绩公布)
