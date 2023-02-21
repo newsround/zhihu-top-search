@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Tue Feb 21 2023 14:08:13 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Tue Feb 21 2023 15:04:56 GMT+0800 (China Standard Time) -->
 
 1. [漫画家松本零士去世](https://www.zhihu.com/search?q=漫画家松本零士去世)
 1. [俄乌冲突即将一周年](https://www.zhihu.com/search?q=俄乌冲突即将一周年)
