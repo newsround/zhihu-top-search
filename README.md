@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Tue Feb 21 2023 22:04:09 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Tue Feb 21 2023 23:05:53 GMT+0800 (China Standard Time) -->
 
 1. [俄乌冲突即将一周年](https://www.zhihu.com/search?q=俄乌冲突即将一周年)
 1. [日本 66% 的高端外国人才是中国人](https://www.zhihu.com/search?q=日本 66%
