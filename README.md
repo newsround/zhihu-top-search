@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Thu Feb 23 2023 02:07:27 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Thu Feb 23 2023 03:02:55 GMT+0800 (China Standard Time) -->
 
 1. [皇马 5:2 逆转利物浦](https://www.zhihu.com/search?q=皇马 5:2 逆转利物浦)
 1. [《钢铁是怎样炼成的》回归俄中学课本](https://www.zhihu.com/search?q=《钢铁是怎样炼成的》回归俄中学课本)
