@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Wed Feb 22 2023 14:08:25 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Wed Feb 22 2023 15:04:52 GMT+0800 (China Standard Time) -->
 
 1. [微软游戏将登陆任天堂](https://www.zhihu.com/search?q=微软游戏将登陆任天堂)
 1. [多地学校因新冠甲流停课，专家回应](https://www.zhihu.com/search?q=多地学校因新冠甲流停课，专家回应)
