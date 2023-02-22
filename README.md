@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Wed Feb 22 2023 12:07:28 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Wed Feb 22 2023 13:05:38 GMT+0800 (China Standard Time) -->
 
 1. [个人游戏生涯喜好表](https://www.zhihu.com/search?q=个人游戏生涯喜好表)
 1. [微软游戏将登陆任天堂](https://www.zhihu.com/search?q=微软游戏将登陆任天堂)
