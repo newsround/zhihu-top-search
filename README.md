@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Thu Feb 23 2023 10:11:52 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Thu Feb 23 2023 11:08:54 GMT+0800 (China Standard Time) -->
 
 1. [《钢铁是怎样炼成的》回归俄中学课本](https://www.zhihu.com/search?q=《钢铁是怎样炼成的》回归俄中学课本)
 1. [农行「连心贷」引热议](https://www.zhihu.com/search?q=农行「连心贷」引热议)
@@ -21,6 +21,8 @@ popular zhihu top search. Search data every hour.
 1. [塔吉克斯坦发生 7.2 级地震](https://www.zhihu.com/search?q=塔吉克斯坦发生 7.2
    级地震)
 1. [拜登离开波兰上飞机时摔倒](https://www.zhihu.com/search?q=拜登离开波兰上飞机时摔倒)
+1. [首轮关停潮已来 幼儿园一孩难求](https://www.zhihu.com/search?q=首轮关停潮已来
+   幼儿园一孩难求)
 1. [皇马 5:2 逆转利物浦](https://www.zhihu.com/search?q=皇马 5:2 逆转利物浦)
 
 <!-- END -->
