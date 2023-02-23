@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Fri Feb 24 2023 00:07:42 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Fri Feb 24 2023 01:04:22 GMT+0800 (China Standard Time) -->
 
 1. [塔吉克斯坦发生 7.2 级地震](https://www.zhihu.com/search?q=塔吉克斯坦发生 7.2
    级地震)
