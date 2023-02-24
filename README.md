@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Fri Feb 24 2023 16:08:27 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Fri Feb 24 2023 17:06:09 GMT+0800 (China Standard Time) -->
 
 1. [艾尔登法环突破两千万套](https://www.zhihu.com/search?q=艾尔登法环突破两千万套)
 1. [俄乌冲突亲历者故事](https://www.zhihu.com/search?q=俄乌冲突亲历者故事)
