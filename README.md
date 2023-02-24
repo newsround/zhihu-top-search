@@ -10,11 +10,11 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Fri Feb 24 2023 17:06:09 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Fri Feb 24 2023 18:06:41 GMT+0800 (China Standard Time) -->
 
-1. [艾尔登法环突破两千万套](https://www.zhihu.com/search?q=艾尔登法环突破两千万套)
 1. [俄乌冲突亲历者故事](https://www.zhihu.com/search?q=俄乌冲突亲历者故事)
 1. [央企幼儿园首次对外招生](https://www.zhihu.com/search?q=央企幼儿园首次对外招生)
+1. [艾尔登法环突破两千万套](https://www.zhihu.com/search?q=艾尔登法环突破两千万套)
 1. [乌克兰要求停售游戏原子之心](https://www.zhihu.com/search?q=乌克兰要求停售游戏原子之心)
 1. [美国 5 名环境顾问前往俄亥俄州时坠机身亡](https://www.zhihu.com/search?q=美国
    5 名环境顾问前往俄亥俄州时坠机身亡)
