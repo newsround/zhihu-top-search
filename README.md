@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sat Feb 25 2023 06:04:21 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sat Feb 25 2023 07:04:08 GMT+0800 (China Standard Time) -->
 
 1. [央企幼儿园首次对外招生](https://www.zhihu.com/search?q=央企幼儿园首次对外招生)
 1. [扬科维奇执掌国足](https://www.zhihu.com/search?q=扬科维奇执掌国足)
