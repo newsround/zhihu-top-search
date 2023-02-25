@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sat Feb 25 2023 14:07:20 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sat Feb 25 2023 15:03:27 GMT+0800 (China Standard Time) -->
 
 1. [扬科维奇执掌国足](https://www.zhihu.com/search?q=扬科维奇执掌国足)
 1. [原神公布新角色「白术」](https://www.zhihu.com/search?q=原神公布新角色「白术」)
