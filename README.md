@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sun Feb 26 2023 21:13:07 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sun Feb 26 2023 22:02:38 GMT+0800 (China Standard Time) -->
 
 1. [一人之下锈铁更新](https://www.zhihu.com/search?q=一人之下锈铁更新)
 1. [「金融 17 条」落地](https://www.zhihu.com/search?q=「金融 17 条」落地)
@@ -20,6 +20,7 @@ popular zhihu top search. Search data every hour.
 1. [中国男篮战胜伊朗男篮](https://www.zhihu.com/search?q=中国男篮战胜伊朗男篮)
 1. [仅 6.1% 应届本科生起薪过万](https://www.zhihu.com/search?q=仅 6.1%
    应届本科生起薪过万)
+1. [WBG 不敌 LNG](https://www.zhihu.com/search?q=WBG 不敌 LNG)
 1. [一人之下第五季完结](https://www.zhihu.com/search?q=一人之下第五季完结)
 1. [媒体称别忽视游戏科技价值](https://www.zhihu.com/search?q=媒体称别忽视游戏科技价值)
 1. [卧龙：苍天陨落开启试玩](https://www.zhihu.com/search?q=卧龙：苍天陨落开启试玩)
