@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Mon Feb 27 2023 05:02:22 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Mon Feb 27 2023 06:03:25 GMT+0800 (China Standard Time) -->
 
 1. [一人之下锈铁更新](https://www.zhihu.com/search?q=一人之下锈铁更新)
 1. [「金融 17 条」落地](https://www.zhihu.com/search?q=「金融 17 条」落地)
