@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sun Feb 26 2023 10:22:47 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sun Feb 26 2023 11:18:46 GMT+0800 (China Standard Time) -->
 
 1. [一人之下第五季完结](https://www.zhihu.com/search?q=一人之下第五季完结)
 1. [媒体称别忽视游戏科技价值](https://www.zhihu.com/search?q=媒体称别忽视游戏科技价值)
