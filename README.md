@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Tue Feb 28 2023 00:07:40 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Tue Feb 28 2023 01:04:13 GMT+0800 (China Standard Time) -->
 
 1. [杨紫琼美国演员工会奖影后](https://www.zhihu.com/search?q=杨紫琼美国演员工会奖影后)
 1. [网文作家藤萍获茅盾新人奖](https://www.zhihu.com/search?q=网文作家藤萍获茅盾新人奖)
