@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Mon Feb 27 2023 18:07:13 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Mon Feb 27 2023 19:03:57 GMT+0800 (China Standard Time) -->
 
 1. [仅 6.1% 应届本科生起薪过万](https://www.zhihu.com/search?q=仅 6.1%
    应届本科生起薪过万)
