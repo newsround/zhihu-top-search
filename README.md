@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Mon Feb 27 2023 16:08:48 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Mon Feb 27 2023 17:06:59 GMT+0800 (China Standard Time) -->
 
 1. [中国男篮战胜伊朗男篮](https://www.zhihu.com/search?q=中国男篮战胜伊朗男篮)
 1. [仅 6.1% 应届本科生起薪过万](https://www.zhihu.com/search?q=仅 6.1%
