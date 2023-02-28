@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Tue Feb 28 2023 22:05:02 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Tue Feb 28 2023 23:05:58 GMT+0800 (China Standard Time) -->
 
 1. [宝可梦直面发布会](https://www.zhihu.com/search?q=宝可梦直面发布会)
 1. [艾尔登法环官宣 DLC](https://www.zhihu.com/search?q=艾尔登法环官宣 DLC)
