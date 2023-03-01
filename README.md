@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Thu Mar 02 2023 05:04:32 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Thu Mar 02 2023 06:02:36 GMT+0800 (China Standard Time) -->
 
 1. [四川甘孜 4.8 级地震](https://www.zhihu.com/search?q=四川甘孜 4.8 级地震)
 1. [建议延长春节假期至 9 天](https://www.zhihu.com/search?q=建议延长春节假期至 9
