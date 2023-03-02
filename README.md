@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Thu Mar 02 2023 18:06:35 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Thu Mar 02 2023 19:03:34 GMT+0800 (China Standard Time) -->
 
 1. [爱潜水的乌贼入驻知乎](https://www.zhihu.com/search?q=爱潜水的乌贼入驻知乎)
 1. [十三邀 7 回归](https://www.zhihu.com/search?q=十三邀 7 回归)
