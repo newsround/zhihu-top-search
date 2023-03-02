@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Thu Mar 02 2023 15:05:45 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Thu Mar 02 2023 16:08:31 GMT+0800 (China Standard Time) -->
 
 1. [原神 3.5 版本上线](https://www.zhihu.com/search?q=原神 3.5 版本上线)
 1. [爱潜水的乌贼入驻知乎](https://www.zhihu.com/search?q=爱潜水的乌贼入驻知乎)
