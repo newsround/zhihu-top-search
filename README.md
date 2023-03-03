@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sat Mar 04 2023 04:06:23 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sat Mar 04 2023 05:02:06 GMT+0800 (China Standard Time) -->
 
 1. [游戏卧龙苍天陨落销量登顶](https://www.zhihu.com/search?q=游戏卧龙苍天陨落销量登顶)
 1. [五哈 3 硬核首播](https://www.zhihu.com/search?q=五哈 3 硬核首播)
