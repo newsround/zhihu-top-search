@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sat Mar 04 2023 15:03:26 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sat Mar 04 2023 16:07:29 GMT+0800 (China Standard Time) -->
 
 1. [进击的巨人最终季更新](https://www.zhihu.com/search?q=进击的巨人最终季更新)
 1. [五哈 3 硬核首播](https://www.zhihu.com/search?q=五哈 3 硬核首播)
