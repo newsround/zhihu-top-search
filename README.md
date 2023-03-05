@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Mon Mar 06 2023 06:04:35 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Mon Mar 06 2023 07:03:48 GMT+0800 (China Standard Time) -->
 
 1. [财政支出 7 成以上用于民生](https://www.zhihu.com/search?q=财政支出 7
    成以上用于民生)
