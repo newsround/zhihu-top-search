@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Mon Mar 06 2023 21:16:43 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Mon Mar 06 2023 22:04:18 GMT+0800 (China Standard Time) -->
 
 1. [利物浦 7:0 曼联](https://www.zhihu.com/search?q=利物浦 7:0 曼联)
 1. [惊蛰节气](https://www.zhihu.com/search?q=惊蛰节气)
