@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Mon Mar 06 2023 11:14:01 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Mon Mar 06 2023 12:07:32 GMT+0800 (China Standard Time) -->
 
 1. [今年国防费预算增长 7.2%](https://www.zhihu.com/search?q=今年国防费预算增长
    7.2%)
