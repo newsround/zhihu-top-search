@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Wed Mar 08 2023 06:04:40 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Wed Mar 08 2023 07:05:00 GMT+0800 (China Standard Time) -->
 
 1. [谭克非回应军费预算增长](https://www.zhihu.com/search?q=谭克非回应军费预算增长)
 1. [建议推进「共享员工」模式](https://www.zhihu.com/search?q=建议推进「共享员工」模式)
