@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Wed Mar 08 2023 07:05:00 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Wed Mar 08 2023 08:34:10 GMT+0800 (China Standard Time) -->
 
 1. [谭克非回应军费预算增长](https://www.zhihu.com/search?q=谭克非回应军费预算增长)
 1. [建议推进「共享员工」模式](https://www.zhihu.com/search?q=建议推进「共享员工」模式)
@@ -20,6 +20,7 @@ popular zhihu top search. Search data every hour.
 1. [人民网评鸡你太美是恶俗烂梗](https://www.zhihu.com/search?q=人民网评鸡你太美是恶俗烂梗)
 1. [TES 0:2 不敌 LNG](https://www.zhihu.com/search?q=TES 0:2 不敌 LNG)
 1. [不再保留中国人民银行县市支行](https://www.zhihu.com/search?q=不再保留中国人民银行县市支行)
+1. [「三八」国际妇女节](https://www.zhihu.com/search?q=「三八」国际妇女节)
 
 <!-- END -->
 
