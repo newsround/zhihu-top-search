@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Wed Mar 08 2023 12:07:22 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Wed Mar 08 2023 13:05:31 GMT+0800 (China Standard Time) -->
 
 1. [人民网评鸡你太美是恶俗烂梗](https://www.zhihu.com/search?q=人民网评鸡你太美是恶俗烂梗)
 1. [TES 0:2 不敌 LNG](https://www.zhihu.com/search?q=TES 0:2 不敌 LNG)
