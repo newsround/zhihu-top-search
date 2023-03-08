@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Wed Mar 08 2023 22:05:13 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Wed Mar 08 2023 23:05:47 GMT+0800 (China Standard Time) -->
 
 1. [「三八」国际妇女节](https://www.zhihu.com/search?q=「三八」国际妇女节)
 1. [游戏天际线 2 正式公开](https://www.zhihu.com/search?q=游戏天际线 2 正式公开)
