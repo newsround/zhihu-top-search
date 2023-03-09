@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Thu Mar 09 2023 14:08:45 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Thu Mar 09 2023 15:05:26 GMT+0800 (China Standard Time) -->
 
 1. [韩国或加入美日印澳「四边机制」](https://www.zhihu.com/search?q=韩国或加入美日印澳「四边机制」)
 1. [被打还手不再认定为互殴](https://www.zhihu.com/search?q=被打还手不再认定为互殴)
