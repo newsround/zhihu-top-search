@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Fri Mar 10 2023 17:06:25 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Fri Mar 10 2023 18:06:31 GMT+0800 (China Standard Time) -->
 
 1. [建议在农村淘汰老头乐](https://www.zhihu.com/search?q=建议在农村淘汰老头乐)
 1. [超 30 个汽车品牌降价](https://www.zhihu.com/search?q=超 30 个汽车品牌降价)
