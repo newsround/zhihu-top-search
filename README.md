@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sat Mar 11 2023 02:07:27 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sat Mar 11 2023 03:02:06 GMT+0800 (China Standard Time) -->
 
 1. [我国成功发射天绘六号 A/B
    星](https://www.zhihu.com/search?q=我国成功发射天绘六号 A/B 星)
