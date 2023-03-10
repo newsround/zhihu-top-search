@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Fri Mar 10 2023 07:06:30 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Fri Mar 10 2023 08:33:29 GMT+0800 (China Standard Time) -->
 
 1. [被打还手不再认定为互殴](https://www.zhihu.com/search?q=被打还手不再认定为互殴)
 1. [个人养老金配置扩围](https://www.zhihu.com/search?q=个人养老金配置扩围)
@@ -21,6 +21,9 @@ popular zhihu top search. Search data every hour.
 1. [超 30 个汽车品牌降价](https://www.zhihu.com/search?q=超 30 个汽车品牌降价)
 1. [ U20 亚洲杯中国队晋级八强](https://www.zhihu.com/search?q= U20
    亚洲杯中国队晋级八强)
+1. [我国成功发射天绘六号 A/B
+   星](https://www.zhihu.com/search?q=我国成功发射天绘六号 A/B 星)
+1. [研究称尼古丁可抗衰老](https://www.zhihu.com/search?q=研究称尼古丁可抗衰老)
 
 <!-- END -->
 
