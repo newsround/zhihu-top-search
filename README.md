@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Fri Mar 10 2023 19:03:40 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Fri Mar 10 2023 20:11:17 GMT+0800 (China Standard Time) -->
 
 1. [ U20 亚洲杯中国队晋级八强](https://www.zhihu.com/search?q= U20
    亚洲杯中国队晋级八强)
