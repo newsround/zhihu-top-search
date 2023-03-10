@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Fri Mar 10 2023 10:21:21 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Fri Mar 10 2023 11:18:30 GMT+0800 (China Standard Time) -->
 
 1. [2 月 CPI 同比上升 1.0%](https://www.zhihu.com/search?q=2 月 CPI 同比上升
    1.0%)
