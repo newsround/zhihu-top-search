@@ -10,9 +10,10 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sat Mar 11 2023 08:28:32 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sat Mar 11 2023 10:02:21 GMT+0800 (China Standard Time) -->
 
 1. [新生化危机四试玩上线](https://www.zhihu.com/search?q=新生化危机四试玩上线)
+1. [美国硅谷银行破产关闭](https://www.zhihu.com/search?q=美国硅谷银行破产关闭)
 1. [我国成功发射天绘六号 A/B
    星](https://www.zhihu.com/search?q=我国成功发射天绘六号 A/B 星)
 1. [研究称尼古丁可抗衰老](https://www.zhihu.com/search?q=研究称尼古丁可抗衰老)
