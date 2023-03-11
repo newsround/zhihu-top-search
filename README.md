@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sat Mar 11 2023 13:03:23 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sat Mar 11 2023 14:06:55 GMT+0800 (China Standard Time) -->
 
 1. [新生化危机四试玩上线](https://www.zhihu.com/search?q=新生化危机四试玩上线)
 1. [美国硅谷银行破产关闭](https://www.zhihu.com/search?q=美国硅谷银行破产关闭)
