@@ -10,12 +10,12 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Sun Mar 12 2023 08:33:32 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Sun Mar 12 2023 10:15:02 GMT+0800 (China Standard Time) -->
 
-1. [美国硅谷银行破产关闭](https://www.zhihu.com/search?q=美国硅谷银行破产关闭)
 1. [东风汽车「骨折」降价](https://www.zhihu.com/search?q=东风汽车「骨折」降价)
 1. [美国取消中赴美旅客新冠检测](https://www.zhihu.com/search?q=美国取消中赴美旅客新冠检测)
 1. [黑暗荣耀 2](https://www.zhihu.com/search?q=黑暗荣耀 2)
+1. [美国硅谷银行破产关闭](https://www.zhihu.com/search?q=美国硅谷银行破产关闭)
 
 <!-- END -->
 
