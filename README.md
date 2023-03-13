@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Mon Mar 13 2023 15:03:02 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Mon Mar 13 2023 16:08:39 GMT+0800 (China Standard Time) -->
 
 1. [矿大校友未兑现捐赠被起诉](https://www.zhihu.com/search?q=矿大校友未兑现捐赠被起诉)
 1. [U20 国足止步八强](https://www.zhihu.com/search?q=U20 国足止步八强)
