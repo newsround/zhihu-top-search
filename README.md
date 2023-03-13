@@ -10,10 +10,10 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Mon Mar 13 2023 22:04:47 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Mon Mar 13 2023 23:03:10 GMT+0800 (China Standard Time) -->
 
-1. [瓦格纳遇重大损失](https://www.zhihu.com/search?q=瓦格纳遇重大损失)
 1. [杨紫琼获奥斯卡影后](https://www.zhihu.com/search?q=杨紫琼获奥斯卡影后)
+1. [瓦格纳遇重大损失](https://www.zhihu.com/search?q=瓦格纳遇重大损失)
 1. [U20 国足止步八强](https://www.zhihu.com/search?q=U20 国足止步八强)
 1. [流浪地球 2 票房破 40 亿](https://www.zhihu.com/search?q=流浪地球 2 票房破 40
    亿)
