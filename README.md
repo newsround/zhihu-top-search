@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Tue Mar 14 2023 05:03:51 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Tue Mar 14 2023 06:04:19 GMT+0800 (China Standard Time) -->
 
 1. [杨紫琼获奥斯卡影后](https://www.zhihu.com/search?q=杨紫琼获奥斯卡影后)
 
