@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Mon Mar 13 2023 19:02:09 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Mon Mar 13 2023 20:11:17 GMT+0800 (China Standard Time) -->
 
 1. [U20 国足止步八强](https://www.zhihu.com/search?q=U20 国足止步八强)
 1. [流浪地球 2 票房破 40 亿](https://www.zhihu.com/search?q=流浪地球 2 票房破 40
