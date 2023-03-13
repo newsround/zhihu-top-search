@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Mon Mar 13 2023 12:07:24 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Mon Mar 13 2023 13:02:20 GMT+0800 (China Standard Time) -->
 
 1. [建议明确蓄意配合财务造假的法律责任](https://www.zhihu.com/search?q=建议明确蓄意配合财务造假的法律责任)
 1. [建议推行教师弹性上下班](https://www.zhihu.com/search?q=建议推行教师弹性上下班)
