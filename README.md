@@ -10,7 +10,7 @@ popular zhihu top search. Search data every hour.
 ## Today's Top Search
 
 <!-- BEGIN -->
-<!-- UpdateTime Tue Mar 14 2023 12:07:21 GMT+0800 (China Standard Time) -->
+<!-- UpdateTime Tue Mar 14 2023 13:04:36 GMT+0800 (China Standard Time) -->
 
 1. [官方：恢复审发外国人各类赴华签证](https://www.zhihu.com/search?q=官方：恢复审发外国人各类赴华签证)
 1. [旅游书用靖国神社作封面](https://www.zhihu.com/search?q=旅游书用靖国神社作封面)
